@@ -1,10 +1,9 @@
 ---
-title: What I learn about Productivity ?
-author: Utsav 
-date: 2024-04-08 18:00:00 +0800
-categories: [Productivity]
-tags: [writing]
-render_with_liquid: false
+title: What I learnt from productivity by sam altman
+layout: default
+tags: [productivity]
+pinned: true
+blog_post: true
 ---
 
 Here's what I learn from [Sam Altman's Productivity Blog](https://blog.samaltman.com/productivity).
