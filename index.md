@@ -9,8 +9,7 @@ Hi! I am Utsav, currently a Master Student at [University of Stuttgart](https://
 I like to discuss about deep learning, large language models and sometimes mathematics.  
 I will try to log my learnings through this blog.
 
-Connect with me on:   
-- X [@the5amperson](https://x.com/the5amperson).   
+Connect with me on:      
 - Github [@theutsavpanchal](https://github.com/theutsavpanchal)
 - mail [panchalutsav274@gmail.com](mailto:panchalutsav274@gmail.com)
 
